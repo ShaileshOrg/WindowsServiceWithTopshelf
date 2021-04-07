@@ -1,0 +1,11 @@
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\bin\Debug\WindowsServiceWithTopshelf.exe.config
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\bin\Debug\WindowsServiceWithTopshelf.exe
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\bin\Debug\WindowsServiceWithTopshelf.pdb
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\bin\Debug\Topshelf.dll
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\bin\Debug\Topshelf.xml
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.csprojAssemblyReference.cache
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.csproj.CoreCompileInputs.cache
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.csproj.CopyComplete
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.exe
+D:\NewGitHubProjects\DotNetProjects\WindowsServiceWithTopshelf\obj\Debug\WindowsServiceWithTopshelf.pdb
